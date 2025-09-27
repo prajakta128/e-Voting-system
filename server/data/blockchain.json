@@ -1,0 +1,170 @@
+[
+  {
+    "index": 0,
+    "timestamp": 1758963395264,
+    "prevHash": "",
+    "data": {
+      "voterHash": "7ede041c9fac3689ad9412cdfb55808a2e41fcd17a50d55921e1dc084f251dcd",
+      "encryptedVote": {
+        "iv": "WWD7JxZmCQXsOMrf",
+        "ciphertext": "VYWK67wNMVzCfb8vIO/i",
+        "authTag": "c0T80NFb2rBExdBvUN1JLQ=="
+      }
+    },
+    "hash": "ef9e532523bc4cbda92a48c22de5690c5c1d3e8636c6cda081ac1d9bba6a8706"
+  },
+  {
+    "index": 1,
+    "timestamp": 1758963432253,
+    "prevHash": "ef9e532523bc4cbda92a48c22de5690c5c1d3e8636c6cda081ac1d9bba6a8706",
+    "data": {
+      "voterHash": "12ce8c9464460c76859f5ead47df22604b8142b89f342baa63ae230bd4edcdf0",
+      "encryptedVote": {
+        "iv": "udsNpLQ9CFVwK0PP",
+        "ciphertext": "GWh5gVBeMQuOsV2jS74e",
+        "authTag": "OD+/lzigBT1I6OFKhvujuw=="
+      }
+    },
+    "hash": "48c0da054b47e78a18a9bd8bcf022cbf35a8597c8acad0aac014bacb91db1691"
+  },
+  {
+    "index": 2,
+    "timestamp": 1758963459159,
+    "prevHash": "48c0da054b47e78a18a9bd8bcf022cbf35a8597c8acad0aac014bacb91db1691",
+    "data": {
+      "voterHash": "cba4eb543092502c5c3602534cb7d5f4b10d4e0db7175891861f0f666ce4dcaf",
+      "encryptedVote": {
+        "iv": "Vux4SjgQW8N0VRVu",
+        "ciphertext": "96GytAvx76hg20chNml+",
+        "authTag": "a8SlZk0xUieequEp7+7ZIw=="
+      }
+    },
+    "hash": "05b219512b7fec5855a697489da100aca11d24cffda755e91a4854167ff3802c"
+  },
+  {
+    "index": 3,
+    "timestamp": 1758963810756,
+    "prevHash": "05b219512b7fec5855a697489da100aca11d24cffda755e91a4854167ff3802c",
+    "data": {
+      "voterHash": "a73b3236b643f279767b0d9c51ae8d29b6be18a1031477c8880a3ee2f441a675",
+      "encryptedVote": {
+        "iv": "PrgN7verw1NWdaj0",
+        "ciphertext": "r/IUnuMzEDD7/FWMZmq7",
+        "authTag": "D3pmVBakmbl8/ZYxS2dz7g=="
+      }
+    },
+    "hash": "eea0583acc3dbe31b3936f0b204caa3df460c69ee0f1fc2224df0de4dd90a736"
+  },
+  {
+    "index": 4,
+    "timestamp": 1758963830842,
+    "prevHash": "eea0583acc3dbe31b3936f0b204caa3df460c69ee0f1fc2224df0de4dd90a736",
+    "data": {
+      "voterHash": "baf34799e0780540a5dbf3dc91ee59afcefea39297b2f3a92479cd60642df59a",
+      "encryptedVote": {
+        "iv": "I1ash9SuqC4/Misq",
+        "ciphertext": "ZJ+i6NrqeuGMrXvyqTVi",
+        "authTag": "DcIv4KcF1hllW3AfZbONqQ=="
+      }
+    },
+    "hash": "68d8a0c41ca30788ce0a2b95f9696b5349b21e9e7b46a9294c2122fbec8791a6"
+  },
+  {
+    "index": 5,
+    "timestamp": 1758963888717,
+    "prevHash": "68d8a0c41ca30788ce0a2b95f9696b5349b21e9e7b46a9294c2122fbec8791a6",
+    "data": {
+      "voterHash": "60b458129624c40ab7133b58e7bcfb01c9a8eb74575449fa0c7c9fb6445ad5d0",
+      "encryptedVote": {
+        "iv": "zNut17jPviCCoSQK",
+        "ciphertext": "SCXiCjkEuIvGhWOGLpIY",
+        "authTag": "f7R9nH5X1ayAi5AnOk5MnA=="
+      }
+    },
+    "hash": "8566279ef59c28e2f6b6e67f786e93892715bc165211b2110e417e9d953abef8"
+  },
+  {
+    "index": 6,
+    "timestamp": 1758974206265,
+    "prevHash": "8566279ef59c28e2f6b6e67f786e93892715bc165211b2110e417e9d953abef8",
+    "data": {
+      "voterHash": "37589750568570662c5f9ec2db2cf9b0c6db61ae4341e5e239e084cabf874f58",
+      "encryptedVote": {
+        "iv": "hM56/+ePi5LDIIdy",
+        "ciphertext": "dVm87gwCIcOllUA8wW2m",
+        "authTag": "xwKffcwbp99womii0iCXMw=="
+      }
+    },
+    "hash": "1f52dc13b140d9417f044779ef8750cc2014fbc5f090e94bb9506482502a0061"
+  },
+  {
+    "index": 7,
+    "timestamp": 1758974231670,
+    "prevHash": "1f52dc13b140d9417f044779ef8750cc2014fbc5f090e94bb9506482502a0061",
+    "data": {
+      "voterHash": "d27aff76b584b272869ed2260b28957023245e7a9b0e478b3f9983d8c37eeacc",
+      "encryptedVote": {
+        "iv": "u22dLDxBzHU56Zy4",
+        "ciphertext": "yBpm18bCxyPzqJpdDdzK",
+        "authTag": "MW2ZBC8xLwS9ewdXJ/a3ZA=="
+      }
+    },
+    "hash": "0a009482266994d78a832c640ec3c1a86365b37263dc6e5de09c627fa1647439"
+  },
+  {
+    "index": 8,
+    "timestamp": 1758974261705,
+    "prevHash": "0a009482266994d78a832c640ec3c1a86365b37263dc6e5de09c627fa1647439",
+    "data": {
+      "voterHash": "887b58d9d05f04792fd065b4c4ead29eed682c12b23e4da77fdbd13b7ce76ff1",
+      "encryptedVote": {
+        "iv": "PkyPnraQbCoMVV/y",
+        "ciphertext": "AePLiGJMJ7bh62J7ER9C",
+        "authTag": "j29gDJ3LYjXSuJOB8VLHDQ=="
+      }
+    },
+    "hash": "b5ee39bfabc70c8fcb2edcd22cab2e780c2f64a705b7693822f8467a1d24cc68"
+  },
+  {
+    "index": 9,
+    "timestamp": 1758974315692,
+    "prevHash": "b5ee39bfabc70c8fcb2edcd22cab2e780c2f64a705b7693822f8467a1d24cc68",
+    "data": {
+      "voterHash": "7c5e293c781f60c8f0a34a1dee00f0e9f045e22fbe03b30d8ef5a8668932a851",
+      "encryptedVote": {
+        "iv": "DKC8fk0j/C0PmcnW",
+        "ciphertext": "evrFJXcetGhL3rUQJUj8",
+        "authTag": "Dw9RriEWp52qGH3Ji1b7WQ=="
+      }
+    },
+    "hash": "b8a6ea0e09edae09ac2cd58abe87f841e3994e3e37559cdd1bab62c6a24f3fc7"
+  },
+  {
+    "index": 10,
+    "timestamp": 1758975515396,
+    "prevHash": "b8a6ea0e09edae09ac2cd58abe87f841e3994e3e37559cdd1bab62c6a24f3fc7",
+    "data": {
+      "voterHash": "fa1034e6b16bdc6c07112d70a2e04478c7ddb4ea6a30ed902a3f40deed6cb56b",
+      "encryptedVote": {
+        "iv": "Us5aA5ewkLi3Aquc",
+        "ciphertext": "hXRUJZpnSu19KJo+D05/",
+        "authTag": "wPBO+UM7LPbKR17qrXkq1g=="
+      }
+    },
+    "hash": "bd9af4ea9a6a3bc63ee4ce5212621e413fcf6ce2cd6b76e9f7c4303d0fcb8124"
+  },
+  {
+    "index": 11,
+    "timestamp": 1758977567632,
+    "prevHash": "bd9af4ea9a6a3bc63ee4ce5212621e413fcf6ce2cd6b76e9f7c4303d0fcb8124",
+    "data": {
+      "voterHash": "679ee720d13b154235f8edabb082029016541080da60804e7957828434437f22",
+      "encryptedVote": {
+        "iv": "wkD9rgd2oBFIWwhi",
+        "ciphertext": "3km9QeiRehwxRFuNXGgi",
+        "authTag": "iXED6nJDwrcCqd1QNhWOmw=="
+      }
+    },
+    "hash": "9ac3b7edd08bde835a30dc3c222672782c18c5c800e72e5e68f33cb237f3d5cc"
+  }
+]

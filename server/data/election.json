@@ -1,0 +1,22 @@
+{
+  "id": "10d48565-b54c-4775-b610-92f852475837",
+  "title": "Secure E-Voting",
+  "startAt": 1758977460000,
+  "endAt": 1758977640000,
+  "totalVoters": 100,
+  "candidates": [
+    {
+      "id": "0-1758977544310",
+      "name": "dsdf",
+      "description": "@",
+      "logoDataUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20width%3D'200'%20height%3D'200'%3E%3Crect%20width%3D'100%25'%20height%3D'100%25'%20fill%3D'%25236366f1'%20rx%3D'20'%2F%3E%3Ctext%20x%3D'50%25'%20y%3D'50%25'%20dominant-baseline%3D'middle'%20text-anchor%3D'middle'%20font-family%3D'Inter%2C%20Arial'%20font-size%3D'80'%20fill%3D'%2523ffffff'%3ED%3C%2Ftext%3E%3C%2Fsvg%3E"
+    },
+    {
+      "id": "1-1758977544310",
+      "name": "vhbj",
+      "description": "!",
+      "logoDataUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20width%3D'200'%20height%3D'200'%3E%3Crect%20width%3D'100%25'%20height%3D'100%25'%20fill%3D'%25236366f1'%20rx%3D'20'%2F%3E%3Ctext%20x%3D'50%25'%20y%3D'50%25'%20dominant-baseline%3D'middle'%20text-anchor%3D'middle'%20font-family%3D'Inter%2C%20Arial'%20font-size%3D'80'%20fill%3D'%2523ffffff'%3EV%3C%2Ftext%3E%3C%2Fsvg%3E"
+    }
+  ],
+  "encryptionKeyBase64": "LFqAwYsYS3Gas+pW346DRdMz+cqGwayGkrZahTaqmlk="
+}
